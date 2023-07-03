@@ -1,0 +1,15 @@
+{
+  "name": "@yangjianzhi/yangui-test",
+  "version": "1.0.0",
+  "description": "vue 组件发布npm示例",
+  "main": "yangui.common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue组件",
+    "npm发布"
+  ],
+  "author": "",
+  "license": "ISC"
+}

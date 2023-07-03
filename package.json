@@ -5,9 +5,11 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
+    "package": "vue-cli-service build --target lib ./src/package/index.js --name yangui --dest yangui",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@yangjianzhi/yangui-test": "^1.0.0",
     "core-js": "^3.8.3",
     "vue": "^2.6.14"
   },
